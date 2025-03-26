@@ -1,0 +1,28 @@
+C:\Users\nelso\Downloads\snack game\bin\Debug\net9.0\snack game.exe
+C:\Users\nelso\Downloads\snack game\bin\Debug\net9.0\snack game.deps.json
+C:\Users\nelso\Downloads\snack game\bin\Debug\net9.0\snack game.runtimeconfig.json
+C:\Users\nelso\Downloads\snack game\bin\Debug\net9.0\snack game.dll
+C:\Users\nelso\Downloads\snack game\bin\Debug\net9.0\snack game.pdb
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\snack game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\snack game.AssemblyInfoInputs.cache
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\snack game.AssemblyInfo.cs
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\snack game.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\snack game.dll
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\refint\snack game.dll
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\snack game.pdb
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\snack game.genruntimeconfig.cache
+C:\Users\nelso\Downloads\snack game\obj\Debug\net9.0\ref\snack game.dll
+C:\Users\nelso\Documents\Game Development\snack game\bin\Debug\net9.0\snack game.exe
+C:\Users\nelso\Documents\Game Development\snack game\bin\Debug\net9.0\snack game.deps.json
+C:\Users\nelso\Documents\Game Development\snack game\bin\Debug\net9.0\snack game.runtimeconfig.json
+C:\Users\nelso\Documents\Game Development\snack game\bin\Debug\net9.0\snack game.dll
+C:\Users\nelso\Documents\Game Development\snack game\bin\Debug\net9.0\snack game.pdb
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\snack game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\snack game.AssemblyInfoInputs.cache
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\snack game.AssemblyInfo.cs
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\snack game.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\snack game.dll
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\refint\snack game.dll
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\snack game.pdb
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\snack game.genruntimeconfig.cache
+C:\Users\nelso\Documents\Game Development\snack game\obj\Debug\net9.0\ref\snack game.dll
